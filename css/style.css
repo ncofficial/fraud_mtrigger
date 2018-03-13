@@ -6,6 +6,9 @@ body {
   margin: 0 auto;
   width: 600px;
 }
+.none {
+  display: none !important;
+}
 .body-text {
   padding: 0 20px 30px 20px;
   font-family: "Roboto";
